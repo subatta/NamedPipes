@@ -1,0 +1,27 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+
+[Oo]bj
+[Bb]in
+build
+Debug
+*.dll
+*.pdb
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+_ReSharper.*
+*.resharper
+*.dtsconfig
+*.[Cc]onfig
+*.ide
+
+# mstest test results
+TestResults
+
+packages
+.vs
